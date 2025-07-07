@@ -52,3 +52,84 @@ compile_commands.json
 *creator.user*
 
 *_qmlcache.qrc
+
+### Общие для Qt ###
+# Автогенерируемые файлы
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+*.moc
+
+# Сборки и исполняемые файлы
+build-*
+*.exe
+*.app
+*.dll
+*.so
+*.so.*
+*.dylib
+*.a
+*.lib
+*.o
+*.obj
+
+# Пользовательские настройки Qt Creator
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+
+### Для qmake ###
+# Файлы проектов
+Makefile*
+*.pro
+*.pri
+*.qmake.cache
+
+### Для CMake ###
+# Файлы сборки CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+*.cmake
+*.ninja
+.ninja_deps
+.ninja_log
+
+### Системные и IDE ###
+# Qt Creator
+.qtc/
+.qtc_*
+
+# CLion
+.idea/
+cmake-build-*/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+### Дополнительные игноры ###
+# Резервные копии
+*.bak
+*.backup
+
+# Логи
+*.log
+
+# Пакетные менеджеры
+.conan/
+vcpkg_installed/
