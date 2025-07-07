@@ -1,0 +1,9 @@
+/home/aleskey/Documents/QTprojects/kontr_rab/build/new-gg/CMakeFiles/kontr_rab.dir
+/home/aleskey/Documents/QTprojects/kontr_rab/build/new-gg/CMakeFiles/edit_cache.dir
+/home/aleskey/Documents/QTprojects/kontr_rab/build/new-gg/CMakeFiles/rebuild_cache.dir
+/home/aleskey/Documents/QTprojects/kontr_rab/build/new-gg/CMakeFiles/list_install_components.dir
+/home/aleskey/Documents/QTprojects/kontr_rab/build/new-gg/CMakeFiles/install.dir
+/home/aleskey/Documents/QTprojects/kontr_rab/build/new-gg/CMakeFiles/install/local.dir
+/home/aleskey/Documents/QTprojects/kontr_rab/build/new-gg/CMakeFiles/install/strip.dir
+/home/aleskey/Documents/QTprojects/kontr_rab/build/new-gg/CMakeFiles/kontr_rab_autogen_timestamp_deps.dir
+/home/aleskey/Documents/QTprojects/kontr_rab/build/new-gg/CMakeFiles/kontr_rab_autogen.dir
