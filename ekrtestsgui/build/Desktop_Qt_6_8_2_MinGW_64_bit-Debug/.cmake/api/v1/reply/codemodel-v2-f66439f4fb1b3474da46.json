@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-beb4a357702c7d89150c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "kontr_rab",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "kontr_rab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kontr_rab-Debug-d82146497bd9d4f45796.json",
+					"name" : "kontr_rab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kontr_rab_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kontr_rab_autogen-Debug-518924b1ddb6a8b289bb.json",
+					"name" : "kontr_rab_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kontr_rab_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kontr_rab_autogen_timestamp_deps-Debug-50725b44b90f623ece53.json",
+					"name" : "kontr_rab_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/cute_projects/kontr_rab/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug",
+		"source" : "D:/cute_projects/kontr_rab"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

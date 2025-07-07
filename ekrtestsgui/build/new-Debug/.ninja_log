@@ -1,0 +1,15 @@
+# ninja log v6
+1423	1682	1751613190158709849	kontr_rab	f669b705dfa960d1
+46	1423	1751613188781714624	CMakeFiles/kontr_rab.dir/mainwindow.cpp.o	c739f1d0aa0006f5
+192	1370	1751611412123713575	CMakeFiles/kontr_rab.dir/main.cpp.o	7668aae277c3aa6b
+192	1460	1751611412122405704	CMakeFiles/kontr_rab.dir/kontr_rab_autogen/mocs_compilation.cpp.o	7859f20d54abd811
+3	46	1751613188738714773	/home/aleskey/documents/QTprojects/kontr_rab/build/new-Debug/kontr_rab_autogen/mocs_compilation.cpp	575a947ee3c6f80
+3	46	1751613188738714773	/home/aleskey/documents/QTprojects/kontr_rab/build/new-Debug/kontr_rab_autogen/timestamp	575a947ee3c6f80
+3	46	1751613188738714773	kontr_rab_autogen/mocs_compilation.cpp	575a947ee3c6f80
+3	46	1751613188738714773	kontr_rab_autogen/timestamp	575a947ee3c6f80
+2	39	1751613344123160878	kontr_rab_autogen/timestamp	575a947ee3c6f80
+2	39	1751613344123160878	kontr_rab_autogen/mocs_compilation.cpp	575a947ee3c6f80
+2	39	1751613344123160878	/home/aleskey/documents/QTprojects/kontr_rab/build/new-Debug/kontr_rab_autogen/timestamp	575a947ee3c6f80
+2	39	1751613344123160878	/home/aleskey/documents/QTprojects/kontr_rab/build/new-Debug/kontr_rab_autogen/mocs_compilation.cpp	575a947ee3c6f80
+39	1717	1751613344160160744	CMakeFiles/kontr_rab.dir/mainwindow.cpp.o	c739f1d0aa0006f5
+1717	1989	1751613345838172677	kontr_rab	f669b705dfa960d1
